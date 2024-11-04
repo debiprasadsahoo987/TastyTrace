@@ -4,14 +4,6 @@ import 'core-js/stable';
 import 'regenerator-runtime/runtime';
 const recipeContainer = document.querySelector('.recipe');
 
-const timeout = function (s) {
-  return new Promise(function (_, reject) {
-    setTimeout(function () {
-      reject(new Error(`Request took too long! Timeout after ${s} second`));
-    }, s * 1000);
-  });
-};
-
 ///////////////////////////////////////
 const controlRecipe = async function () {
   try {
@@ -26,10 +18,14 @@ const controlRecipe = async function () {
     // 2. Rendering Recipe
     recipeView.render(model.state.recipe);
   } catch (err) {
-    alert(err);
+    recipeView.renderError();
   }
 };
 
 ///////////////////////////////////
 
-['hashchange', 'load'].forEach(e => window.addEventListener(e, controlRecipe));
+const init = function () {
+  recipeView.addHandlerRender(controlRecipe);
+};
+
+init();
