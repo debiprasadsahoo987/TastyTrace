@@ -1,9 +1,4 @@
-9721
-115C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\@parcel\transformer-svg\test\parseFuncIRI.test.js133748008562798910 0
-68C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\dist\index.html133753124776872104 0
-88C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\entities\lib\generated133748008567883108 1
-102C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\core-js\full\array\virtual\splice.js133750414108174083 0
-71C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\chalk133748008562939507 1
+9722
 103C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\core-js\stable\string\virtual\bold.js133750414073834124 0
 78C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\src\img\icons\favicon.png133747647960854407 0
 101C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\core-js\actual\number\is-integer.js133750414095236542 0
@@ -39,7 +34,7 @@
 101C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\core-js\actual\instance\includes.js133750414090949353 0
 99C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\@swc\helpers\cjs\_ts_decorate.cjs133748008582926262 0
 96C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\css-what\lib\commonjs\index.js133748008559875831 0
-57C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\dist133753129066679385 1
+57C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\dist133755669085756199 1
 76C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\is-extglob133748008560761000 1
 95C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\core-js\actual\string\bold.js133750414073781782 0
 108C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\@parcel\markdown-ansi\src\markdown-ansi.js133748008560560944 0
@@ -62,7 +57,7 @@
 92C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\picomatch\lib\picomatch.js133748008562081717 0
 137C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Url.js133748008579180374 0
 95C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\core-js\internals\freezing.js133750414088122947 0
-73C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\src\js\controller.js133753125225289375 0
+73C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\src\js\controller.js133755465795118160 0
 64C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\.prettierrc133732062964759517 0
 106C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\core-js\stable\array\virtual\for-each.js133750414087787999 0
 78C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\lmdb\LICENSE133748008565781597 0
@@ -90,6 +85,11 @@
 79C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\escalade\sync133748008564378203 1
 80C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\tslib\tslib.js133748008562105800 0
 117C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\@swc\helpers\esm\_class_private_field_loose_base.js133748008583959829 0
+63C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\index.html133755442127467434 0
+111C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\core-js\internals\object-define-properties.js133750414100160644 0
+111C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\csso\node_modules\mdn-data\css\selectors.json133748008567654763 0
+106C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\@parcel\optimizer-svgo\node_modules\.bin133748008598450877 1
+93C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\to-regex-range\package.json133748008558648742 0
 101C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\core-js\modules\es.string.repeat.js133750414079929271 0
 83C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\globals\readme.md133748008562117289 0
 104C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\caniuse-lite\data\features\webauthn.js133748008595250097 0
@@ -104,11 +104,6 @@
 90C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\semver\internal\debug.js133748008564533090 0
 113C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\caniuse-lite\data\features\sharedarraybuffer.js133748008593215435 0
 73C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\flowchart-part-3.png133732062965612049 0
-63C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\index.html133753123775505969 0
-111C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\core-js\internals\object-define-properties.js133750414100160644 0
-111C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\csso\node_modules\mdn-data\css\selectors.json133748008567654763 0
-106C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\@parcel\optimizer-svgo\node_modules\.bin133748008598450877 1
-93C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\to-regex-range\package.json133748008558648742 0
 91C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\css-tree\lib\syntax\scope133748008583754576 1
 65C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules133750588361299161 1
 121C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\lmdb\dependencies\lz4\lib\dll\example\fullbench-dll.sln133748008580314537 0
@@ -216,7 +211,7 @@
 98C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\core-js\features\iterator\map.js133750414098370981 0
 98C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\svgo\plugins\convertTransform.js133748008574085373 0
 98C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\@parcel\utils\src\escape-html.js133748008567110580 0
-69C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\src\js\config.js133752650376675904 0
+69C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\src\js\config.js133755220075044143 0
 90C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\core-js\es\array\join.js133750414096724837 0
 116C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\@swc\helpers\_\_await_async_generator\package.json133748008566686004 0
 122C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\tooltag133748008567057597 0
@@ -224,7 +219,7 @@
 86C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\msgpackr-extract\bin133748008561078851 1
 109C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\core-js\features\number\max-safe-integer.js133750414099675515 0
 71C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\@lmdb133750588361309245 1
-68C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\src\js\model.js133752659825646412 0
+68C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\src\js\model.js133755223792507188 0
 98C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\core-js\proposals\error-cause.js133750414077217943 0
 79C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\mdn-data\l10n133748008563567789 1
 111C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\caniuse-lite\data\features\background-sync.js133748008574156224 0
@@ -233,7 +228,10 @@
 73C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\is-glob133748008560798392 1
 98C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\term-size\vendor\macos\term-size133748008561496134 0
 97C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\core-js\proposals\decorators.js133750414075541260 0
-65C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\src\js\views133753101733482078 1
+65C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\src\js\views133755256726793339 1
+83C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\src\js\views\paginationView.js133755669083903721 0
+114C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\core-js\features\async-disposable-stack\index.js133750414093203368 0
+127C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\csso\node_modules\css-tree\lib\syntax\node\DeclarationList.js133748008580785854 0
 111C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\css-select\node_modules\entities\lib\index.js133748008567034960 0
 89C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\semver\ranges\subset.js133748008571241209 0
 123C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\caniuse-lite\data\features\css-container-queries-style.js133748008579899286 0
@@ -491,6 +489,8 @@
 87C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\is-json\test\index.js133748008562869009 0
 75C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\callsites133748008561440043 1
 78C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\caniuse-lite133748008595844578 1
+102C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\core-js\full\array\virtual\splice.js133750414108174083 0
+71C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\chalk133748008562939507 1
 118C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\@parcel\runtime-js\src\helpers\worker\wasm-loader.js133748008571064136 0
 76C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\parcel\src133748008562724691 1
 101C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\core-js\es\string\virtual\anchor.js133750414071095243 0
@@ -3386,6 +3386,9 @@
 93C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\entities\lib\encode-trie.js133748008563321688 0
 90C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\entities\lib\encode.d.ts133748008568417442 0
 104C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\core-js\modules\esnext.map.group-by.js133750414082141004 0
+115C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\@parcel\transformer-svg\test\parseFuncIRI.test.js133748008562798910 0
+68C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\dist\index.html133755669085339979 0
+88C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\entities\lib\generated133748008567883108 1
 89C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\entities\lib\index.d.ts133748008568587065 0
 83C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\entities\lib\maps133748008565330761 1
 110C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\core-js\actual\array\virtual\reduce-right.js133750414102841334 0
@@ -3754,8 +3757,6 @@
 125C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\csso\node_modules\css-tree\lib\syntax\node\ClassSelector.js133748008579670612 0
 100C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\core-js\modules\es.array.filter.js133750414077350353 0
 119C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\csso\node_modules\css-tree\lib\syntax\node\Comment.js133748008579805934 0
-114C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\core-js\features\async-disposable-stack\index.js133750414093203368 0
-127C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\csso\node_modules\css-tree\lib\syntax\node\DeclarationList.js133748008580785854 0
 100C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\cosmiconfig\dist\Explorer.d.ts.map133748008567458853 0
 121C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\csso\node_modules\css-tree\lib\syntax\node\Dimension.js133748008580835835 0
 132C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\csso\node_modules\css-tree\lib\syntax\node\index-parse-selector.js133748008581435135 0
@@ -6887,7 +6888,7 @@
 98C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\core-js\features\object\index.js133750414093604467 0
 97C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\caniuse-lite\data\regions\BY.js133748008576910490 0
 108C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\core-js\features\object\iterate-entries.js133750414096200998 0
-76C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\dist\icons.dfd7a6db.svg133753122703476941 0
+76C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\dist\icons.dfd7a6db.svg133755669085434846 0
 97C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\core-js\features\object\keys.js133750414096963151 0
 106C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\core-js\features\object\lookup-getter.js133750414097613829 0
 98C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\core-js\features\object\proto.js133750414102310440 0
@@ -8432,7 +8433,7 @@
 138C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\@swc\helpers\_\_class_check_private_static_field_descriptor\package.json133748008569846797 0
 133C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\@parcel\core\test\fixtures\targets-default-distdir-one\package.json133748008582462711 0
 124C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\@swc\helpers\_\_class_apply_descriptor_update\package.json133748008568951763 0
-79C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\dist\index.e37f48ea.js.map133753129066658791 0
+79C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\dist\index.e37f48ea.js.map133755669085746140 0
 121C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\@swc\helpers\_\_class_apply_descriptor_set\package.json133748008568607019 0
 111C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\@swc\helpers\_\_array_with_holes\package.json133748008563118525 0
 121C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\@swc\helpers\_\_class_apply_descriptor_get\package.json133748008568337376 0
@@ -9712,11 +9713,11 @@
 75C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\.bin\svgo133748008598641566 0
 79C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\.bin\svgo.cmd133748008598626600 0
 93C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\node_modules\.bin\update-browserslist-db133748008598665498 0
-78C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\dist\favicon.2da1cff1.png133753122702790732 0
-76C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\dist\icons.21bad73c.svg133753122703476941 0
 75C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\dist\index.62406edb.js133748310918380606 0
 79C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\dist\index.62406edb.js.map133748310918395588 0
-76C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\dist\index.f7626f62.css133753122703346944 0
-80C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\dist\index.f7626f62.css.map133753122703396940 0
-89C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\dist\TastyTrace logo WB.2b2ff971.png133753122703070730 0
-75C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\dist\index.e37f48ea.js133753129066621179 0
+76C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\dist\index.f7626f62.css133755669085421124 0
+78C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\dist\favicon.2da1cff1.png133755669085421124 0
+76C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\dist\icons.21bad73c.svg133755669085434846 0
+80C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\dist\index.f7626f62.css.map133755669085464772 0
+75C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\dist\index.e37f48ea.js133755669085706593 0
+89C:\Users\debip\Desktop\Projects\Project-2-TastyTrace\dist\TastyTrace logo WB.2b2ff971.png133755669085756199 0
